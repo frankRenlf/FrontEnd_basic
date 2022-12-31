@@ -1,4 +1,4 @@
-import thenFS from "then-fs"
+import thenFS from 'then-fs'
 console.log('A')
 async function getAllFiles() {
     console.log('B')
